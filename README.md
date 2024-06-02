@@ -6,13 +6,13 @@ This is a simple shopping cart webpage that allows users to view and manage thei
 
 ## Features
 
--Display products with images, names, prices, and quantity inputs.
+- Display products with images, names, prices, and quantity inputs.
 
--Options to save items for later or remove them from the cart.
+- Options to save items for later or remove them from the cart.
 
--A summary section that calculates and displays the subtotal, tax, shipping, and total amount.
+- A summary section that calculates and displays the subtotal, tax, shipping, and total amount.
 
--Responsive design for optimal viewing on various screen sizes.
+- Responsive design for optimal viewing on various screen sizes.
 
 ## Technologies Used
 
