@@ -26,4 +26,6 @@ iii.Font Awesome for icons
 
 This project is open-source and available under the MIT License.
 
+## Demo
+
 Check out the live demo [here](https://uharika77.github.io/shopping-cart-page/)
