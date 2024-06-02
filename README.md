@@ -2,7 +2,7 @@
 
 ## Overview
 
--This is a simple shopping cart webpage that allows users to view and manage their selected products. The page features a list of products with their images, prices, and quantity selection. Users can add items to their wishlist or remove them from the cart. The right-hand sidebar displays the order summary, including the subtotal, tax, shipping cost, and the total amount.
+This is a simple shopping cart webpage that allows users to view and manage their selected products. The page features a list of products with their images, prices, and quantity selection. Users can add items to their wishlist or remove them from the cart. The right-hand sidebar displays the order summary, including the subtotal, tax, shipping cost, and the total amount.
 
 ## Features
 
@@ -17,7 +17,9 @@
 ## Technologies Used
 
 i.HTML5
+
 ii.CSS3
+
 iii.Font Awesome for icons
 
 ## License
